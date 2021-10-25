@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 
-- [Customer Churn Study](# Customer Churn Study)
+- [Customer Churn Study](#CustomerChurnStudy)
   - [Customer Churn Modeling](https://https://github.com/ridhoarahman/RidhoAR-Portfolio/tree/main/Churn%20Modeling)
 
 ## Introduction
