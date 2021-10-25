@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 
-- [Customer Churn Study](https://https://github.com/ridhoarahman/RidhoAR-Portfolio/tree/main/Churn%20Modeling)
-  - [Customer Churn Modeling](https://https://github.com/ridhoarahman/RidhoAR-Portfolio/blob/main/Churn%20Modeling/Modeling_of_Kamboja_churn_analysis.ipynb)
+- [Customer Churn Study](# Customer Churn Study)
+  - [Customer Churn Modeling](https://https://github.com/ridhoarahman/RidhoAR-Portfolio/tree/main/Churn%20Modeling)
 
 ## Introduction
 Welcome to my awesome data science project portfolio. In my repo, you can find awesome and practical solutions to some of the real world business problems with statistical methods and the-state-of-art machine learning models. Most of my projects will be demoed in jupyter notebook. Jupyter notebook is an excellent way to share my work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well.
