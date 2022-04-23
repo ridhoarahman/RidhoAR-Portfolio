@@ -7,7 +7,7 @@
   - [Customer Churn Modeling](https://github.com/ridhoarahman/RidhoAR-Portfolio/tree/main/Churn%20Modeling)
 
 ## Introduction
-Welcome to my data science project portfolio. In my repo, you can find practical solutions to some of the real world business problems with statistical methods and machine learning models. My projects will be demoed in jupyter notebook. Jupyter notebook is an excellent way to share my work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well.
+Welcome to my data science project portfolio. In my repo, you can find practical solutions to some of the real world business problems with statistical methods and machine learning models. My projects will be demoed in jupyter notebook. Jupyter notebook is an excellent way to share my work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Jupyter Notebook and Google Colaboratory as well.
 
 ## CustomerChurnStudy
 
